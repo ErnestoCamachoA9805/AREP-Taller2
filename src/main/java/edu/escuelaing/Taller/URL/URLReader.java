@@ -3,7 +3,6 @@ package edu.escuelaing.Taller.URL;
 import java.io.*;
 import java.net.*;
 
-//Desarrollado en clase con el Profesor
 public class URLReader {
     public static void main(String[] args) throws Exception {
         /*URL url = new URL(args[0]);*/
